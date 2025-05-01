@@ -1,0 +1,10 @@
+python3 converter.py \
+  --input-dir ./SVG \
+  --output-dir ./PNG \
+  --color black \
+  --background white \
+  --button rounded \
+  --radius 50 \
+  --size 500x500 \
+  --padding 0.00 \
+  --outer-padding 0.00
